@@ -48,7 +48,7 @@
     "@testing-library/jest-dom": "^6.8.0",
     "@testing-library/vue": "^8.1.0",
     "@vitejs/plugin-vue": "^4.6.2",
-    "@vue/test-utils": "2.4.5",
+    "@vue/test-utils": "2.4.10",
     "@vitejs/plugin-vue2": "2.2.0",
     "rollup-plugin-dts": "^6.1.0",
     "rollup": "^4.59.0",
