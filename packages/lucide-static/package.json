@@ -45,6 +45,6 @@
     "prettier": "^2.3.2",
     "svgson": "^5.2.1",
     "rollup": "^4.59.0",
-    "rollup-plugin-dts": "^6.2.1"
+    "rollup-plugin-dts": "^6.4.1"
   }
 }
