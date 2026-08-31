@@ -64,7 +64,7 @@
     "@sveltejs/vite-plugin-svelte": "^2.4.2",
     "@testing-library/jest-dom": "^6.8.0",
     "@testing-library/svelte": "^4.0.2",
-    "@tsconfig/svelte": "^5.0.0",
+    "@tsconfig/svelte": "^5.0.8",
     "jest-serializer-html": "^7.1.0",
     "svelte": "^4.2.19",
     "svelte-check": "^3.4.4",
