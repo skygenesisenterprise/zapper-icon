@@ -67,7 +67,7 @@
     "jest-serializer-html": "^7.1.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-native": "^0.76.0",
+    "react-native": "^0.87.1",
     "react-native-svg": "^15.8.0",
     "rollup": "^4.59.0",
     "rollup-plugin-dts": "^6.2.3",
