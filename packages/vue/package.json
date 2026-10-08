@@ -45,7 +45,7 @@
     "@lucide/build-icons": "workspace:*",
     "@lucide/rollup-plugins": "workspace:*",
     "@lucide/shared": "workspace:*",
-    "@testing-library/jest-dom": "^6.8.0",
+    "@testing-library/jest-dom": "^7.0.1",
     "@testing-library/vue": "^8.1.0",
     "@vitejs/plugin-vue": "^4.6.2",
     "@vue/test-utils": "2.4.5",
